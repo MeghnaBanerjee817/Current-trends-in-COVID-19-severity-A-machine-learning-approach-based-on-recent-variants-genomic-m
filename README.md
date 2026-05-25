@@ -49,6 +49,11 @@ Figure 2. Heatmap showing month-wise SARS-CoV-2 sequence submission intensity fo
 
 Figure 3. Receiver Operating Characteristic (ROC) curves for the implemented models. Higher AUC values indicate better performance.
 
+### SHAP Analysis
+
+![SHAP summary plot ](Results/Beeswarm.png)
+
+SHAP summary plot of the top 60 features ranked by importance in the prediction model. Positive SHAP values indicate increased contribution of the corresponding feature toward severe COVID-19 prediction, whereas negative values contribute toward mild COVID-19 prediction. Feature importance is ranked based on mean absolute SHAP values.
 
 ## Author
 
