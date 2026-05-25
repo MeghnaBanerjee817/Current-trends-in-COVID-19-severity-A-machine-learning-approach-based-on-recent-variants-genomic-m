@@ -43,6 +43,13 @@ Figure 1. Overview of SARS-CoV-2 metadata trends from January 2024 to May 2025, 
 
 Figure 2. Heatmap showing month-wise SARS-CoV-2 sequence submission intensity for the top fifteen contributing countries in the dataset from January 2024 to May 2025. Darker colors indicate higher submission intensity.
 
+### ROC Curve Analysis
+
+![ROC Curves](README_figures/all_models_roc_with_legend_below.png)
+
+Figure 3. Receiver Operating Characteristic (ROC) curves for the implemented models. Higher AUC values indicate better performance.
+
+
 ## Author
 
 Meghna Banerjee
