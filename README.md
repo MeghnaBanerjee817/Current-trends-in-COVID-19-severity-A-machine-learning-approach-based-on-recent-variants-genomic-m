@@ -37,6 +37,12 @@ Due to GISAID data-sharing policies, raw sequence data are not redistributed in 
 
 Figure 1. Overview of SARS-CoV-2 metadata trends from January 2024 to May 2025, including temporal trends across countries, age groups, gender, regions, and circulating clades based on GISAID metadata. The figure also summarizes trends in mean COVID-19 severity across demographic categories.
 
+### Country-wise Submission Trends
+
+![Country Submission Heatmap](README_figures/country_month_heatmap.png)
+
+Figure 2. Heatmap showing month-wise SARS-CoV-2 sequence submission intensity for the top fifteen contributing countries in the dataset from January 2024 to May 2025. Darker colors indicate higher submission intensity.
+
 ## Author
 
 Meghna Banerjee
