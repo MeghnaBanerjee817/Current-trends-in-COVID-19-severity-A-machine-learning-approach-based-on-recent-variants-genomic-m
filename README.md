@@ -45,7 +45,7 @@ Figure 2. Heatmap showing month-wise SARS-CoV-2 sequence submission intensity fo
 
 ### ROC Curve Analysis
 
-![ROC Curves](README_figures/all_models_roc_with_legend_below.png)
+![ROC Curves](Results/all_models_roc_with_legend_below.png)
 
 Figure 3. Receiver Operating Characteristic (ROC) curves for the implemented models. Higher AUC values indicate better performance.
 
