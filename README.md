@@ -33,8 +33,6 @@ Due to GISAID data-sharing policies, raw sequence data are not redistributed in 
 
 ### Metadata Trends
 
-### Metadata Trends
-
 ![Metadata Trends](README_figures/figure2final.png)
 
 Figure 1. Overview of SARS-CoV-2 metadata trends from January 2024 to May 2025, including temporal trends across countries, age groups, gender, regions, and circulating clades based on GISAID metadata. The figure also summarizes trends in mean COVID-19 severity across demographic categories.
