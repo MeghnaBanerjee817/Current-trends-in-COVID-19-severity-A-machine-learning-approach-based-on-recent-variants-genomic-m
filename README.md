@@ -65,6 +65,10 @@ Figure 5. Decision Curve Analysis (DCA) comparing the clinical net benefit of th
 
 Figure 6. Flowchart illustrating temporal validation framework with drift detection, recalibration and retraining.
 
+![temporalfinal](README_figures/temporalfinal.png)
+
+Temporal validation plots showing AUROC, Brier Score, and Expected Calibration Error (ECE) across different time periods for XGBoost, LightGBM, and GPBoost models. Fluctuations in these metrics indicate model stability and potential performance drift over time.
+
 ## Author
 
 Meghna Banerjee
