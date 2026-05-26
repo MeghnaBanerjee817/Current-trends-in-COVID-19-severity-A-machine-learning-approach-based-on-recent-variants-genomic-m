@@ -57,7 +57,7 @@ Figure 4. SHAP summary plot of the top 60 features ranked by importance in the p
 
 ### Decision Curve Analysis
 
-![Decision Curve Analysis](Results/dca_plot.png)
+![Decision Curve Analysis](Results/dca_plot_square.png)
 
 Decision Curve Analysis (DCA) comparing the clinical net benefit of the constructed machine learning models for predicting severe COVID-19 across multiple risk thresholds. Models with higher net benefit than both the “Treat All” and “Treat None” strategies are considered clinically useful.
 
