@@ -55,6 +55,12 @@ Figure 3. Receiver Operating Characteristic (ROC) curves for the implemented mod
 
 Figure 4. SHAP summary plot of the top 60 features ranked by importance in the prediction model. Positive SHAP values indicate increased contribution of the corresponding feature toward severe COVID-19 prediction, whereas negative values contribute toward mild COVID-19 prediction. Feature importance is ranked based on mean absolute SHAP values.
 
+### Decision Curve Analysis
+
+![Decision Curve Analysis](README_figures/dca_plot.png)
+
+Decision Curve Analysis (DCA) comparing the clinical net benefit of the constructed machine learning models for predicting severe COVID-19 across multiple risk thresholds. Models with higher net benefit than both the “Treat All” and “Treat None” strategies are considered clinically useful.
+
 ## Author
 
 Meghna Banerjee
